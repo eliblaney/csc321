@@ -1,0 +1,17 @@
+Q:Is it a place?
+Q:Is it in the United States?
+Q:Is it a university?
+A:Creighton
+Q:Is it a national park
+A:Grand Canyon
+A:Iowa
+Q:Is it on Earth?
+Q:Is it underwater?
+A:Great Barrier Reef
+A:Mt Everest
+A:Mars
+Q:Does it fly?
+A:Blue jay
+Q:Does it bark?
+A:Dog
+A:Cat
